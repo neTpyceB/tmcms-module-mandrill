@@ -1,5 +1,5 @@
 <?php
-namespace neTpyceB\TMCms\Modules\Mandrill;
+namespace TMCms\Modules\Mandrill;
 
 require_once 'Templates.php';
 require_once 'Exports.php';

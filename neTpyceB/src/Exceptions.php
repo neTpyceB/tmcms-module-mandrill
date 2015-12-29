@@ -1,5 +1,5 @@
 <?php
-namespace neTpyceB\TMCms\Modules\Mandrill;
+namespace TMCms\Modules\Mandrill;
 
 use Exception;
 

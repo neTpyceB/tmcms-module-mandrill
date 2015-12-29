@@ -1,5 +1,5 @@
 <?php
-namespace neTpyceB\TMCms\Modules\Mandrill;
+namespace TMCms\Modules\Mandrill;
 
 class Mandrill_Users {
     public function __construct(Mandrill $master) {

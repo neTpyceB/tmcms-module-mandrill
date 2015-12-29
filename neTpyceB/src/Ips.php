@@ -1,5 +1,5 @@
 <?php
-namespace neTpyceB\TMCms\Modules\Mandrill;
+namespace TMCms\Modules\Mandrill;
 
 class Mandrill_Ips {
     public function __construct(Mandrill $master) {
